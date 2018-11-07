@@ -12,7 +12,7 @@ void *mythread(void *arg) {
 
 int main(int argc, char *argv[]) {                    
     if (argc != 1) {
-	fprintf(stderr, "usage: main\n");
+	fprintf(stderr, "usage: t0\n");
 	exit(1);
     }
 

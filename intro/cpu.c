@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "common.h"
-
+// git alias test
 int main(int argc, char *argv[])
 {
     if (argc != 2) {
